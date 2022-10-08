@@ -1,0 +1,25 @@
+.card-container img{
+    width: 286px;
+
+    border-radius: 10px 10px 0 0;
+
+}
+.PerCart{
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px gray;
+}
+.bottomBtn{
+    border-radius: 0 0 10px 10px;
+}
+.PerCart:hover{
+    box-shadow: 1px 1px 50px gray;
+    transition: 5ms;
+    cursor: pointer;
+}
+.bottomBtn:hover{
+    background-color: #1c943a;
+    color: white;
+}
+.name{
+    text-shadow: 1px 1px 5px;
+}
